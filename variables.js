@@ -32,7 +32,7 @@ const classroom = "Web Dev"; // Variable Declaration
 
 console.log(classroom)
 
-console.log(classroom="Math")
+console.log(classroom = "Math")
 
 //console.log(classroom="math" will not work.)
 
@@ -41,3 +41,4 @@ console.log(classroom="Math")
 let myNum = 5;
 let myFavNum = Number("5.0")
 console.log(myFavNum)
+
