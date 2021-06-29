@@ -108,3 +108,7 @@ arr.map(function(value) {console.log(value)})
 
 
 
+function sum(a,b) {
+    return a+b;
+}
+console.log(sum(1,2,3,4))
